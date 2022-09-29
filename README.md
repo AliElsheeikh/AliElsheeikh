@@ -5,7 +5,7 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-- 🌱 I’m currently learning **I’m currently learning Web 
+- 🌱 I’m currently learning **Web 
 and other programming languages**
 
 - 💬 Ask me about **C++**
