@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ali!
 </h1>
-<h3 align="center">a passionate self-learner 👨‍💻</h3>
+<h3 align="center">a self-taught software developer 👨‍💻 driven by a passion for technology and a commitment to continuous learning. With a focus on gaining market-ready skills, I have dedicated myself to mastering software development and keeping pace with the rapidly evolving tech industry. Open to learning new tools and technologies, I believe the journey to becoming a knowledgeable software developer is never-ending, and I am eager to continue growing and expanding my skillset.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielsheeikh&label=Profile%20views&color=0e75b6&style=flat" alt="alielsheeikh" /> </p>
 
