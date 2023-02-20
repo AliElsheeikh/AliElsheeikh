@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ali!
 </h1>
-<h3 align="center">a self-taught software developer 👨‍💻 driven by a passion for technology and a commitment to continuous learning. With a focus on gaining market-ready skills, I have dedicated myself to mastering software development and keeping pace with the rapidly evolving tech industry. Open to learning new tools and technologies, I believe the journey to becoming a knowledgeable software developer is never-ending, and I am eager to continue growing and expanding my skillset.</h3>
+<h3 align="center">I am a software developer who taught myself and loves learning. I focus on gaining practical skills and staying up-to-date with the latest technology trends. I'm open to new tools and always eager to keep growing and improving my abilities.</h3>
 
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" />
